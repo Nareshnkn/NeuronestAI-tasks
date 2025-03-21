@@ -1,6 +1,5 @@
 NeuronestAI Pvt. Ltd. - Lead Management System
 Project Overview
-This repository contains the source code for a Lead Management System developed for NeuronestAI Pvt. Ltd.. The system is designed to facilitate efficient management of lead information, offering a dynamic modal for lead creation and a multi-level dropdown for managing dispositions.
 
 The primary focus of this project is to streamline lead management by providing an intuitive and seamless user experience.
 
@@ -13,6 +12,24 @@ Popup Modal Design: The modal appears when the "Add New Lead" button is clicked.
 Form Elements: The modal contains form fields for lead details like name, contact, and additional lead information.
 Responsive Design: The modal is fully responsive, adjusting to different screen sizes.
 Dynamic Interactions: The modal dynamically adapts based on user input to collect relevant information.
+
+## Task 1: Design a Dynamic Popup Modal
+
+### Objective:
+Design and implement a dynamic popup modal that allows users to easily add new leads into the system. Below is a screenshot of the dynamic popup modal.
+
+![Lead Modal Screenshot]((https://github.com/Nareshnkn/NeuronestAI-tasks/blob/master/assets/Screenshot%202025-03-21%20115635.png))
+
+---
+
+## Task 2: Design a Dynamic Multi-Level Dropdown
+
+### Objective:
+Develop a multi-level dropdown to manage and filter dispositions related to the leads. Here’s the screenshot of the dropdown functionality.
+
+![Dropdown Screenshot](assets/screenshot2.png)
+
+---
 Task 2: Design a Dynamic Multi-Level Dropdown
 Objective:
 Develop a multi-level dropdown to manage and filter dispositions related to the leads. The dropdown is designed to be user-friendly and adaptable for various use cases.
