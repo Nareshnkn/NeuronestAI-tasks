@@ -18,7 +18,7 @@ Dynamic Interactions: The modal dynamically adapts based on user input to collec
 ### Objective:
 Design and implement a dynamic popup modal that allows users to easily add new leads into the system. Below is a screenshot of the dynamic popup modal.
 
-![Lead Modal Screenshot]((https://github.com/Nareshnkn/NeuronestAI-tasks/blob/master/assets/Screenshot%202025-03-21%20115635.png))
+![Lead Modal Screenshot](/assets/Screenshot%202025-03-21%20115635.png))
 
 ---
 
