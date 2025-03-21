@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+NeuronestAI Pvt. Ltd. - Lead Management System
+Project Overview
+This repository contains the source code for a Lead Management System developed for NeuronestAI Pvt. Ltd.. The system is designed to facilitate efficient management of lead information, offering a dynamic modal for lead creation and a multi-level dropdown for managing dispositions.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The primary focus of this project is to streamline lead management by providing an intuitive and seamless user experience.
 
-## Available Scripts
+Task 1: Design a Dynamic Popup Modal
+Objective:
+Design and implement a dynamic popup modal that allows users to easily add new leads into the system. The modal includes several customizable fields for adding lead details and ensures smooth interaction for a great user experience.
 
-In the project directory, you can run:
+Key Features:
+Popup Modal Design: The modal appears when the "Add New Lead" button is clicked.
+Form Elements: The modal contains form fields for lead details like name, contact, and additional lead information.
+Responsive Design: The modal is fully responsive, adjusting to different screen sizes.
+Dynamic Interactions: The modal dynamically adapts based on user input to collect relevant information.
+Task 2: Design a Dynamic Multi-Level Dropdown
+Objective:
+Develop a multi-level dropdown to manage and filter dispositions related to the leads. The dropdown is designed to be user-friendly and adaptable for various use cases.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Key Features:
+Multi-Level Dropdown: Users can select options from a nested dropdown to categorize leads, making it easy to organize the data.
+Dynamic Interaction: The dropdown adjusts dynamically based on the selection, guiding the user through each level.
+Dropdown Filtering: The dropdown allows filtering of categories at each level based on user input, ensuring a fast and efficient workflow.
+Customizable Options: The dropdown options are designed to accommodate various dispositions and can be updated based on business needs.
+Technologies Used
+Frontend: React.js, Bootstrap
+State Management: React's useState hook
+Responsive Design: CSS Flexbox and Media Queries
+UI Components: React Bootstrap for Modal and Dropdown
+Version Control: Git, GitHub
+Project Setup
+1. Clone the repository
+bash
+Copy
+Edit
+git clone https://github.com/NeuronestAI/lead-management-system.git
+cd lead-management-system
+2. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Run the development server
+bash
+Copy
+Edit
+npm start
+Visit http://localhost:3000 to view the application.
