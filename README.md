@@ -1,4 +1,4 @@
-NeuronestAI Pvt. Ltd. - Lead Management System
+NeuronestAI Pvt. Ltd. - Lead Management System (MERN STACK Project)
 Project Overview
 
 The primary focus of this project is to streamline lead management by providing an intuitive and seamless user experience.
